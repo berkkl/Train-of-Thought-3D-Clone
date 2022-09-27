@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Left Turn
+  - Right Turn
+  - Left Turn Indicator
+  - Right Turn Indicator
+  - Yellow Circle Target
+  - Black Capsule
+  - Blue Capsule
+  - Grey Capsule
+  - Red Capsule
+  - Yellow Capsule
+  - Black Square
+  - Blue Square
+  - Grey Square
+  - Red Square
+  - Yellow Square
+  - Stable Turn
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - IgnoreCollision
+  - Water
+  - UI
+  - Left Turn
+  - Right Turn
+  - Target
+  - Straight Turn
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
